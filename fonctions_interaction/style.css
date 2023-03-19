@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.contenu{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.contenu form{
+    margin-left:100px;
+}
+.contenu form input{
+    display: flex;
+    
+    flex-direction: column;
+}
+.contenu #ajouter{
+   margin-left: 50px;
+}
